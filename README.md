@@ -11,6 +11,8 @@ Polynomial Regression
 
 ![](https://github.com/developer-venish/Salary-Prediction-using-Polynomial-Regression/blob/main/graph1.png)
 
+---------------------------------------------------------------------------------------
+
 Prediction
 
 ![](https://github.com/developer-venish/Salary-Prediction-using-Polynomial-Regression/blob/main/prediction.png)
